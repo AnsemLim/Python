@@ -1,0 +1,1 @@
+# learn basic in within one week
