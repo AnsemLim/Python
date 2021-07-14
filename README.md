@@ -1,1 +1,1 @@
-# learn basic in within one week
+# learn basic python
